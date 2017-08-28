@@ -2,6 +2,9 @@ Sage 2 Wiki
 
 https://bitbucket.org/sage2/sage2/wiki/browse/
 
+three sage widget types 
+	button, sliders, and radio
+
 WidgetTypes included in Sage sorce code. 
 	remote:
 	stop: 
@@ -25,3 +28,4 @@ WidgetTypes included in Sage sorce code.
 	closeApp: 
 	default: 
 
+this.resrcPath to find resorces in the app folder.
